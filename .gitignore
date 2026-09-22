@@ -1,0 +1,11 @@
+References/
+
+# Generated output
+MimicTree.html
+*.csv
+
+# Editor / OS cruft
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
